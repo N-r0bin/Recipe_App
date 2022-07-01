@@ -1,8 +1,8 @@
 # Recipe App
 
 <p float="left">
-  <img src="assets/Screenshots/recipe_main.png">
-  <img src="assets/Screenshots/recipe_burger.png">
+  <img src="assets/Screenshots/recipe_main.png" height="600" width="320">
+  <img src="assets/Screenshots/recipe_burger.png" height="600" width="320">
 </p>
 
 A new Flutter application.
