@@ -1,7 +1,9 @@
 # Recipe App
 
-![](assets/Screenshots/recipe_main.png)
-![](assets/Screenshots/recipe_burger.png)
+<p float="left">
+  <img src="assets/Screenshots/recipe_main.png">
+  <img src="assets/Screenshots/recipe_burger.png">
+</p>
 
 A new Flutter application.
 
